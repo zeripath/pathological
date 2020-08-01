@@ -11,3 +11,5 @@ with no spaces
 
 this is two lines  
 with two spaces
+
+👍👎😆😕❤️🎉👀😀😸🤡💃💅💥⚡✏⚠⤴⤵

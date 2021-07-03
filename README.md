@@ -28,6 +28,8 @@ This changelog goes through all the changes that have been made in each release
 * ENHANCEMENTS
     * baz (963a017c4913a1e6c3c6e42d48e19214cb10c6ad)
 
+<img src="IMG_20200219_171438292.jpg" alt="Direct link to: IMG_20200219_171438292.jpg"/>
+
 
 ![IMG_20200219_171438292.jpg](IMG_20200219_171438292.jpg)
 

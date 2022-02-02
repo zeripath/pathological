@@ -6,11 +6,15 @@ This is a line
 with a break before with with no spaces and after with  
 two spaces. GFM says the first doesn't get a `<br>`, only the second does.
 
-This is a line
+This is two lines
 with no spaces
+
+This is two lines 
+with one space
 
 this is two lines  
 with two spaces
+
 
 👍👎😆😕❤️🎉👀😀😸🤡💃💅💥⚡✏⚠⤴⤵
 
